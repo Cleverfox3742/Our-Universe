@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding: 0;  
+    font-family: 'Lora', serif;
+}
+header{
+    background-image: url(ll.PNG);
+    height: 600vh;
+    border-top-width: 300vh;
+    background-position: center;
+    background-size: cover;
+}
+.text{
+    text-decoration: none;
+    text-decoration-style: none;
+}
+ul{
+    float: right;
+    list-style-type: none;
+    margin-top: 45px;
+    width: auto;
+    height: 30pt;
+    margin-right: -400px;
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 1px 3px;
+    border: 1px solid transparent;
+}
+
+ul li a:hover{
+    background-color: blue;
+    color: pink;
+}
+ul li.active a{
+    background-color: blue;
+    color: pink;
+}
+.logo img{
+    float: none;
+    width: 100px;
+    height: auto;
+    margin-left: -100px;
+    margin-top: 15px;
+    position: fixed;
+}
+.main{
+    max-width: auto;
+    margin: auto;
+}
+.btn{
+    border: 1px solid none;
+    padding: 10px 20px;
+    color: pink;
+    text-decoration: none;
+    transition: 0.6s ease;
+}
+.btn:hover{
+    background-color: blue;
+    color: pink;
+}
+.Planets{
+    float: left;
+    width: 20px;
+    height: auto;
+    margin-top: 200px;
+    margin-left: -45px;
+    padding: 5px;
+}
+h1{
+    position: absolute;
+    left: 50%;
+}
+h2{
+    position: absolute;
+    top: 40%;
+    left: 62%;
+    transform: translate(-50%,-50%);
+}
+.Mercury{
+    float: left;
+    width: 20px;
+    height: 30px;
+    margin-top: 500px;
+    margin-right: 25px;
+    padding: 5px;
+}
+h5{
+    position: absolute;
+    top: 90%;
+    left: 62%;
+    transform: translate(-50%,-50%);
+    font-size: x-large;
+}
+.Earth{
+    float: right;
+    width: 20px;
+    height: 30px;
+    margin-top: 900px;
+    margin-right: -30px;
+    padding: 5px;
+}
+h3{
+    position: absolute;
+    top: 135%;
+    left: 40%;
+    transform: translate(-50%,-50%);
+    font-size: x-large;
+}
+.Mars{
+    float: right;
+    width: 20px;
+    height: 30px;
+    margin-top: 1300px;
+    margin-right: 10px;
+    padding: 5px;
+}
+h4{
+    position: absolute;
+    top: 180%;
+    left: 40%;
+    transform: translate(-50%,-50%);
+    font-size: x-large;
+}
+.Jupiter{
+    float: left;
+    width: 20px;
+    height: 30px;
+    margin-top: 1700px;
+    margin-right: 25px;
+    padding: 5px;
+}
+h6{
+    position: absolute;
+    top: 240%;
+    left: 52%;
+    transform: translate(-50%,-50%);
+    font-size: x-large;
+}
+.Saturn{
+    float: left;
+    width: 20px;
+    height: 30px;
+    margin-top: 2100px;
+    margin-right: 25px;
+    padding: 5px;
+}
+p{
+    position: absolute;
+    top: 280%;
+    left: 52%;
+    transform: translate(-50%,-50%);
+    font-size: x-large;
+}
+.Uranus{
+    float: right;
+    width: 20px;
+    height: 30px;
+    margin-top: 2400px;
+    margin-right: 400px;
+    padding: 5px;
+}
+strong{
+    position: absolute;
+    top: 325%;
+    left: 45%;
+    transform: translate(-50%,-50%);
+    font-size: x-large;
+}
