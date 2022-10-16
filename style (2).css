@@ -4,11 +4,12 @@
     font-family: 'Lora', serif;
 }
 header{
-    background-image: url(images 1.PNG);
-    height: 600vh;
-    border-top-width: 300vh;
+    filter: blur(0.6px);
+    background-color: lightslategray;
+    background-image: url(images 1.png);
+    height: 100vh;
     background-position: center;
-    background-size: cover;
+    background-size: cover
 }
 .text{
     text-decoration: none;
