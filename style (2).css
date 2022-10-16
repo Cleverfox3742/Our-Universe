@@ -4,9 +4,9 @@
     font-family: 'Lora', serif;
 }
 header{
-    filter: blur(0.6px);
     background-image: url(ll.png);
     height: 100vh;
+    border-top-width: 300vh;
     background-position: center;
     background-size: cover
 }
