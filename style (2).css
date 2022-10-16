@@ -5,7 +5,6 @@
 }
 header{
     filter: blur(0.6px);
-    background-color: lightslategray;
     background-image: url(images 1.png);
     height: 100vh;
     background-position: center;
