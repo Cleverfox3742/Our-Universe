@@ -5,7 +5,7 @@
 }
 header{
     background-image: url(ll.png);
-    min-height: 100%;
+    min-height: 50%;
     border-top-width: 500vh;
     background-position: center center;
     background-size: cover cover;
