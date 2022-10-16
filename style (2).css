@@ -4,15 +4,10 @@
     font-family: 'Lora', serif;
 }
 header{
+    background-image: url(ll.PNG);
     height: 600vh;
     border-top-width: 300vh;
        background-position: center;
-    background-size: cover;
-}
-.bg{
-        height: 600vh;
-    border-top-width: 300vh;
-    background-position: center;
     background-size: cover;
 }
 .text{
