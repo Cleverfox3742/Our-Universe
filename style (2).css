@@ -5,8 +5,8 @@
 }
 header{
     background-image: url(ll.png);
-    min-height: 50%;
-    border-top-width: 500vh;
+    min-height: 100%;
+    border-top-width: 100vh;
     background-position: center center;
     background-size: cover cover;
     background-repeat: no-repeat;
