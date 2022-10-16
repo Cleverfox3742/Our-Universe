@@ -6,8 +6,12 @@
 header{
     height: 600vh;
     border-top-width: 300vh;
+       background-position: center;
+    background-size: cover;
 }
 .bg{
+        height: 600vh;
+    border-top-width: 300vh;
     background-position: center;
     background-size: cover;
 }
